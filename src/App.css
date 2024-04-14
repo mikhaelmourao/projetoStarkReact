@@ -36,3 +36,101 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.container-fluid {
+ 
+ font-family: 'Times New Roman', 'Poppins';
+ 
+}
+.todas {
+  background-color: black;
+}
+.container {
+  display: flex;
+ justify-content: center;
+  background-color: black;
+  
+}
+.container .pricing{
+  text-decoration: none;
+  color: white;
+ 
+}
+.cardbody {
+  margin: 5px;
+}
+
+ form{
+   margin-left: center;
+ }
+.pricing {
+  background-color: black;
+}
+
+/* Estilos para a marca da navbar */
+.container-fluid .navbar-brand {
+  font-family: 'Times New Roman', 'Poppins';
+  text-decoration: none;
+  color: red; 
+  font-weight: bolder;
+}
+
+
+.corpo {
+  font-family: 'Times New Roman', 'Poppins';
+  background-color: black;
+  color: white;
+  min-height: 100vh;
+  margin-bottom: 150px;
+ 
+}
+header {
+  background-color: black;
+}
+
+
+.navbar-nav .nav-link {
+  font-family: 'Times New Roman', 'Poppins';
+  font-weight: bolder; 
+}
+.custom-link {
+  font-family: 'Times New Roman', 'Poppins';
+  text-decoration: none;
+  color: black;
+}
+.custom-link-pricing {
+  font-family: 'Times New Roman', 'Poppins';
+  text-decoration: none;
+  color: white;
+}
+
+.form-control, .btn {
+  font-family: 'Times New Roman', 'Poppins';
+  color: white;
+}
+
+img{
+  height: 400px;
+  max-width: 80% ;
+  margin: 0 auto;
+}
+
+h{
+  font-family: 'Times New Roman', 'Poppins';
+}
+footer {
+  font-family: 'Times New Roman', 'Poppins';
+  background-color: black;
+  color: red;
+  min-height: 20vh;
+}
+
+
+.card-body{
+  font-family: 'Times New Roman', 'Poppins';
+  color: white;
+}
+
+
